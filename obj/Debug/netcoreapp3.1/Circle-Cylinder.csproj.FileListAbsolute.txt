@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\Circle-Cylinder\obj\Debug\netcoreapp3.1\Circle-Cylinder.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Circle-Cylinder\obj\Debug\netcoreapp3.1\Circle-Cylinder.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Circle-Cylinder\obj\Debug\netcoreapp3.1\Circle-Cylinder.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Circle-Cylinder\obj\Debug\netcoreapp3.1\Circle-Cylinder.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Circle-Cylinder\bin\Debug\netcoreapp3.1\Circle-Cylinder.exe
+C:\Users\Administrator\source\repos\Circle-Cylinder\bin\Debug\netcoreapp3.1\Circle-Cylinder.deps.json
+C:\Users\Administrator\source\repos\Circle-Cylinder\bin\Debug\netcoreapp3.1\Circle-Cylinder.runtimeconfig.json
+C:\Users\Administrator\source\repos\Circle-Cylinder\bin\Debug\netcoreapp3.1\Circle-Cylinder.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Circle-Cylinder\bin\Debug\netcoreapp3.1\Circle-Cylinder.dll
+C:\Users\Administrator\source\repos\Circle-Cylinder\bin\Debug\netcoreapp3.1\Circle-Cylinder.pdb
+C:\Users\Administrator\source\repos\Circle-Cylinder\obj\Debug\netcoreapp3.1\Circle-Cylinder.dll
+C:\Users\Administrator\source\repos\Circle-Cylinder\obj\Debug\netcoreapp3.1\Circle-Cylinder.pdb
+C:\Users\Administrator\source\repos\Circle-Cylinder\obj\Debug\netcoreapp3.1\Circle-Cylinder.genruntimeconfig.cache
